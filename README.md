@@ -30,6 +30,4 @@ java Start
 
 Output will show token list based on `input.php`.
 
-```
-
 No external libraries or tools required.
