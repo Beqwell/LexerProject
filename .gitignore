@@ -1,0 +1,21 @@
+# Java build files
+*.class
+
+# VSCode settings (optional — якщо не хочеш ділитися)
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Logs/temp
+*.log
+*.tmp
+
+# Node/Composer caches (на майбутнє)
+node_modules/
+vendor/
